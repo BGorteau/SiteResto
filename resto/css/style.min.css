@@ -29,7 +29,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #000;
+    color: #ea4335;
     line-height: 1.5
 }
 
@@ -601,7 +601,7 @@ a:active, a:focus, a:hover {
 
 .btn.btn-primary {
     border: 1px solid #FFA33E;
-    color: #fff
+    color: #131313
 }
 
 .btn.btn-primary:active, .btn.btn-primary:focus, .btn.btn-primary:hover {
@@ -1761,7 +1761,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .secondary-heading {
     text-transform: uppercase;
-    color: #fff;
+    color: #3b5998;
     margin: 0;
     padding: 0;
     letter-spacing: .05em;
@@ -1779,7 +1779,7 @@ section[data-section=menu] {
 }
 
 .probootstrap-heading.dark .secondary-heading {
-    color: #000
+    color: #3b5998
 }
 
 .probootstrap-heading .seperator {
